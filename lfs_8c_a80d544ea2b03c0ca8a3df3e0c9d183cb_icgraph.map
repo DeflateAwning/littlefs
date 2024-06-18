@@ -1,0 +1,15 @@
+<map id="lfs_superblock_fromle32" name="lfs_superblock_fromle32">
+<area shape="rect" id="Node000001" title=" " alt="" coords="285,55,447,80"/>
+<area shape="rect" id="Node000002" href="$lfs_8c.html#ae1437bfa4300302b10bff2e781eb87b6" title=" " alt="" coords="142,5,237,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,52,237,34,238,29,304,47"/>
+<area shape="rect" id="Node000004" href="$lfs_8c.html#a23dfdb467bfd35240a0fdf1ab74929b4" title="Filesystem filesystem operations ///." alt="" coords="145,55,234,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="269,70,234,70,234,65,269,65"/>
+<area shape="rect" id="Node000006" href="$lfs_8c.html#aa3ff784058aead4768173e729152f2da" title=" " alt="" coords="147,104,232,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="304,88,233,108,232,102,302,82"/>
+<area shape="rect" id="Node000003" href="$lfs_8c.html#a03ca8c7b3327238ce3deedf8b0ff1912" title=" " alt="" coords="5,5,94,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,21,94,21,94,16,126,16"/>
+<area shape="rect" id="Node000005" href="$lfs_8c.html#a483945033d5f747c963a8fee840b3c34" title="Filesystem&#45;level filesystem operations." alt="" coords="8,55,91,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="129,70,91,70,91,65,129,65"/>
+<area shape="rect" id="Node000007" href="$lfs_8c.html#a45a6b0f28a1b441a3f68a63e38bcbf1e" title=" " alt="" coords="10,104,89,130"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="131,120,89,120,89,114,131,114"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="lfs_dir_drop" name="lfs_dir_drop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="279,31,367,56"/>
+<area shape="rect" id="Node000002" href="$lfs_8c.html#a0ed15be6bddff24f357f24cbcd59d201" title=" " alt="" coords="139,5,231,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,35,231,29,232,24,264,30"/>
+<area shape="rect" id="Node000004" href="$lfs_8c.html#a8a364b6fc4a64d2c7ca31b5346d6f181" title=" " alt="" coords="139,55,231,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,56,232,62,231,57,263,51"/>
+<area shape="rect" id="Node000003" href="$lfs_8c.html#a99955c5cacbb59f461648ade799b29c5" title="General operations ///." alt="" coords="5,5,91,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,21,91,21,91,16,123,16"/>
+<area shape="rect" id="Node000005" href="$lfs_8c.html#ad317a1355194d8ea6c886b27fb7df1bb" title=" " alt="" coords="5,55,91,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="123,70,91,70,91,65,123,65"/>
+</map>

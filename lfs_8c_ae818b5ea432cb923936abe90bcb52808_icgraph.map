@@ -1,0 +1,43 @@
+<map id="lfs_superblock_tole32" name="lfs_superblock_tole32">
+<area shape="rect" id="Node000001" title=" " alt="" coords="918,179,1065,204"/>
+<area shape="rect" id="Node000002" href="$lfs_8c.html#a510f8fe2f64777b4662a914ac95aa82c" title=" " alt="" coords="758,129,845,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="924,177,844,156,846,151,925,172"/>
+<area shape="rect" id="Node000004" href="$lfs_8c.html#a58e106c86442db07d9af1a7eab6ca17a" title=" " alt="" coords="733,179,870,204"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="903,194,870,194,870,189,903,189"/>
+<area shape="rect" id="Node000020" href="$lfs_8c.html#ae1437bfa4300302b10bff2e781eb87b6" title=" " alt="" coords="754,228,849,254"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="925,211,850,231,849,226,924,206"/>
+<area shape="rect" id="Node000003" href="$lfs_8c.html#a4c06f8b947d320a2859bae5c02db8291" title="Filesystem functions ///." alt="" coords="566,129,645,155"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="742,145,645,145,645,140,742,140"/>
+<area shape="rect" id="Node000005" href="$lfs_8c.html#a651bb8d9b7afba50f815c3a7a43abc6c" title=" " alt="" coords="526,179,685,204"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="717,194,685,194,685,189,717,189"/>
+<area shape="rect" id="Node000006" href="$lfs_8c.html#af427c4edfdfd5f3f957708079189ddea" title="Top level file operations ///." alt="" coords="347,55,465,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="530,173,525,169,508,150,500,131,492,112,477,94,459,83,462,79,480,89,497,109,505,129,512,147,528,166,533,169"/>
+<area shape="rect" id="Node000010" href="$lfs_8c.html#ab8871c1d386def50c3391ab1c7442885" title=" " alt="" coords="365,104,446,130"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="540,176,525,170,477,143,446,131,448,126,479,138,527,165,542,171"/>
+<area shape="rect" id="Node000012" href="$lfs_8c.html#ad4adad2805e0b0857586b6edb6bb1f74" title=" " alt="" coords="333,153,478,179"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="510,182,478,178,479,173,511,177"/>
+<area shape="rect" id="Node000014" href="$lfs_8c.html#a733f1f864bb63c6f371679424d5d8542" title="Top level directory operations ///." alt="" coords="365,203,446,228"/>
+<area shape="poly" id="edge13_Node000005_Node000014" title=" " alt="" coords="511,205,447,213,446,208,511,200"/>
+<area shape="rect" id="Node000016" href="$lfs_8c.html#a0ed15be6bddff24f357f24cbcd59d201" title=" " alt="" coords="360,252,452,278"/>
+<area shape="poly" id="edge15_Node000005_Node000016" title=" " alt="" coords="542,212,527,218,479,243,452,254,450,249,477,238,525,213,540,207"/>
+<area shape="rect" id="Node000018" href="$lfs_8c.html#a8a364b6fc4a64d2c7ca31b5346d6f181" title=" " alt="" coords="360,301,452,327"/>
+<area shape="poly" id="edge17_Node000005_Node000018" title=" " alt="" coords="533,214,528,217,512,235,505,254,497,273,480,292,454,306,451,302,477,288,492,270,500,252,508,232,525,214,530,210"/>
+<area shape="rect" id="Node000007" href="$lfs_8c.html#a509002255413794568a03d407f5aaeae" title=" " alt="" coords="166,5,266,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="338,53,266,34,267,29,339,48"/>
+<area shape="rect" id="Node000009" href="$lfs_8c.html#a27b9877d2df6b72e9ac883a408d0d34c" title=" " alt="" coords="160,55,272,80"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="331,70,272,70,272,65,331,65"/>
+<area shape="rect" id="Node000008" href="$lfs_8c.html#a02f1f1f3a196afa8f182a738f6e457ab" title="File operations ///." alt="" coords="5,5,99,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="150,21,99,21,99,16,150,16"/>
+<area shape="rect" id="Node000011" href="$lfs_8c.html#a74f8019d4d3dc48c5efaee8d3e742830" title=" " alt="" coords="179,104,253,130"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="350,120,254,120,254,114,350,114"/>
+<area shape="rect" id="Node000013" href="$lfs_8c.html#a70428d8f97cc449ab09399ee38c51a2a" title=" " alt="" coords="147,153,285,179"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="317,169,285,169,285,164,317,164"/>
+<area shape="rect" id="Node000015" href="$lfs_8c.html#ab0f9d4057fec1ab265411de6321a3ef6" title="Directory operations ///." alt="" coords="179,203,253,228"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="350,218,254,218,254,213,350,213"/>
+<area shape="rect" id="Node000017" href="$lfs_8c.html#a99955c5cacbb59f461648ade799b29c5" title="General operations ///." alt="" coords="173,252,259,278"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="344,268,259,268,259,262,344,262"/>
+<area shape="rect" id="Node000019" href="$lfs_8c.html#ad317a1355194d8ea6c886b27fb7df1bb" title=" " alt="" coords="173,301,259,327"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="344,317,259,317,259,312,344,312"/>
+<area shape="rect" id="Node000021" href="$lfs_8c.html#a03ca8c7b3327238ce3deedf8b0ff1912" title=" " alt="" coords="561,228,650,254"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="738,244,650,244,650,238,738,238"/>
+</map>

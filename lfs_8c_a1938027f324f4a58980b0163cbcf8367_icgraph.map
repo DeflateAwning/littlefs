@@ -1,0 +1,19 @@
+<map id="lfs_ctz_tole32" name="lfs_ctz_tole32">
+<area shape="rect" id="Node000001" title=" " alt="" coords="771,55,872,80"/>
+<area shape="rect" id="Node000002" href="$lfs_8c.html#a0f7d91af547222f857c7c7e0b4952836" title=" " alt="" coords="624,55,723,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="756,70,723,70,723,65,756,65"/>
+<area shape="rect" id="Node000003" href="$lfs_8c.html#a6913260217358cf9c612d2547f6f0bbe" title=" " alt="" coords="472,29,576,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="608,59,576,54,576,48,609,54"/>
+<area shape="rect" id="Node000009" href="$lfs_8c.html#ab8488e8dd558a8e6f0850c9da71f5805" title=" " alt="" coords="478,79,570,104"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="608,81,571,87,570,81,608,75"/>
+<area shape="rect" id="Node000004" href="$lfs_8c.html#aa7eb46b610f8507869aa62759cfd224e" title=" " alt="" coords="317,5,413,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,35,413,28,414,23,458,29"/>
+<area shape="rect" id="Node000005" href="$lfs_8c.html#af427c4edfdfd5f3f957708079189ddea" title="Top level file operations ///." alt="" coords="306,55,424,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="457,55,425,61,424,55,457,50"/>
+<area shape="rect" id="Node000006" href="$lfs_8c.html#a509002255413794568a03d407f5aaeae" title=" " alt="" coords="152,29,253,55"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="290,59,252,53,253,47,291,53"/>
+<area shape="rect" id="Node000008" href="$lfs_8c.html#a27b9877d2df6b72e9ac883a408d0d34c" title=" " alt="" coords="147,79,258,104"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="291,81,259,86,258,81,290,76"/>
+<area shape="rect" id="Node000007" href="$lfs_8c.html#a02f1f1f3a196afa8f182a738f6e457ab" title="File operations ///." alt="" coords="5,29,99,55"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="137,45,99,45,99,40,137,40"/>
+</map>

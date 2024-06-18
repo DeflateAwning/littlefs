@@ -1,0 +1,19 @@
+<map id="lfs_deinit" name="lfs_deinit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="420,55,494,80"/>
+<area shape="rect" id="Node000002" href="$lfs_8c.html#a510f8fe2f64777b4662a914ac95aa82c" title=" " alt="" coords="136,5,222,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="405,53,372,45,293,32,222,24,223,19,293,26,373,40,406,48"/>
+<area shape="rect" id="Node000004" href="$lfs_8c.html#a4219b606a1b9cb27f194bea14383be0f" title="Filesystem operations ///." alt="" coords="293,55,352,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="405,70,353,70,353,65,405,65"/>
+<area shape="rect" id="Node000007" href="$lfs_8c.html#aedc04d849ce7a88cc0c2575c7c96ea0a" title=" " alt="" coords="273,104,372,130"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="407,89,361,106,359,101,405,84"/>
+<area shape="rect" id="Node000003" href="$lfs_8c.html#a4c06f8b947d320a2859bae5c02db8291" title="Filesystem functions ///." alt="" coords="5,5,85,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,21,85,21,85,16,120,16"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="277,55,218,34,220,29,279,50"/>
+<area shape="rect" id="Node000005" href="$lfs_8c.html#aa3ff784058aead4768173e729152f2da" title=" " alt="" coords="136,55,222,80"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="277,70,222,70,222,65,277,65"/>
+<area shape="rect" id="Node000006" href="$lfs_8c.html#a45a6b0f28a1b441a3f68a63e38bcbf1e" title=" " alt="" coords="6,55,84,80"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="121,70,85,70,85,65,121,65"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="268,101,218,83,220,78,270,96"/>
+<area shape="rect" id="Node000008" href="$lfs_8c.html#a1ba0c128036f028697ee5bce04c40749" title=" " alt="" coords="133,104,225,130"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="257,120,225,120,225,114,257,114"/>
+</map>

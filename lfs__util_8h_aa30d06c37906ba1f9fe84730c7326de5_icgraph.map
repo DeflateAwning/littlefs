@@ -1,0 +1,21 @@
+<map id="lfs_malloc" name="lfs_malloc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="472,80,553,106"/>
+<area shape="rect" id="Node000002" href="$lfs_8c.html#af427c4edfdfd5f3f957708079189ddea" title="Top level file operations ///." alt="" coords="306,55,424,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="457,86,424,80,425,75,458,81"/>
+<area shape="rect" id="Node000006" href="$lfs_8c.html#a4219b606a1b9cb27f194bea14383be0f" title="Filesystem operations ///." alt="" coords="336,104,395,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="458,104,396,115,395,109,457,99"/>
+<area shape="rect" id="Node000003" href="$lfs_8c.html#a509002255413794568a03d407f5aaeae" title=" " alt="" coords="152,5,253,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,52,247,34,248,29,307,47"/>
+<area shape="rect" id="Node000005" href="$lfs_8c.html#a27b9877d2df6b72e9ac883a408d0d34c" title=" " alt="" coords="147,55,258,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="290,70,258,70,258,65,290,65"/>
+<area shape="rect" id="Node000004" href="$lfs_8c.html#a02f1f1f3a196afa8f182a738f6e457ab" title="File operations ///." alt="" coords="5,5,99,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="137,21,99,21,99,16,137,16"/>
+<area shape="rect" id="Node000007" href="$lfs_8c.html#a510f8fe2f64777b4662a914ac95aa82c" title=" " alt="" coords="159,104,246,130"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="320,120,246,120,246,114,320,114"/>
+<area shape="rect" id="Node000009" href="$lfs_8c.html#aa3ff784058aead4768173e729152f2da" title=" " alt="" coords="160,153,245,179"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="321,133,246,156,245,151,320,128"/>
+<area shape="rect" id="Node000008" href="$lfs_8c.html#a4c06f8b947d320a2859bae5c02db8291" title="Filesystem functions ///." alt="" coords="12,104,92,130"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="143,120,92,120,92,114,143,114"/>
+<area shape="rect" id="Node000010" href="$lfs_8c.html#a45a6b0f28a1b441a3f68a63e38bcbf1e" title=" " alt="" coords="13,153,91,179"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="144,169,92,169,92,164,144,164"/>
+</map>
