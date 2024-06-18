@@ -1,0 +1,5 @@
+# Doxyfile 1.8.15
+
+DOXYFILE_ENCODING      = UTF-8
+PROJECT_NAME           = "My Project"
+...
